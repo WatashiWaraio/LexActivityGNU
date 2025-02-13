@@ -82,7 +82,7 @@ Dependiendo de cómo esté diseñado el analizador, puede procesar la entrada de
 ### Opcion 2: Desde un archivo de entrada 📑
 
 ```bash
-./a.out < archivo_de_prueba.txt
+./a.out  archivo_de_prueba.txt
 ```
 
 
