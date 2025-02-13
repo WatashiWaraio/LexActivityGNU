@@ -176,7 +176,17 @@ Implementaremos un programa en Lex que reconozca los siguientes tokens:
 Desarrollaremos un programa en Lex que identifique y clasifique números complejos.
 
 
+# 👥 Colaboradores
 
+- 🧑‍💻 Luis Felipe Valencia Ramirez (Estudiante de Ingenieria en Ciencias de la computacion e IA)
+
+- 🧑‍💻 Andres Felipe Sindicue Alvarado (Estudiante de Ingenieria en Ciencias de la computacion e IA)
+
+- 🧑‍💻 Emanuel Felipe Molina Triana (Estudiante de Ingenieria en Ciencias de la computacion e IA)
+
+- 👩💻 Karen Yireth Castañeda Castro (Estudiante de Ingenieria en Ciencias de la computacion e IA)
+
+📢 ¡Muchas Gracias! 🚀
 
 
 
