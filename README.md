@@ -66,7 +66,7 @@ flex nombre_del_archivo.l
 Este comando genera un ejecutable llamado **a.out** el -lfl enlaza la biblioteca **libfl** 📚, que se necesita para que el codigo generado por Flex funcione correctamente.
 
 ```bash
-gcc lex.yy.c -o salida -lfl
+gcc lex.yy.c -lfl
 ```
 
 ## 3️⃣ Ejecutar el programa
